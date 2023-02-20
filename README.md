@@ -1,2 +1,2 @@
 # imgHost
-Image hosting on GitHub
+Image hosting on GitHub.
